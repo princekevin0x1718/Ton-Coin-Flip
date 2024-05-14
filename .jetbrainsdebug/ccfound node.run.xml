@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ccfound node" type="NodeJSConfigurationType" application-parameters="dev" path-to-node="$USER_HOME$/.nvm/versions/node/v20.10.0/bin/node" path-to-js-file="node_modules/next/dist/bin/next " working-dir="$PROJECT_DIR$">
+    <method v="2" />
+  </configuration>
+</component>
